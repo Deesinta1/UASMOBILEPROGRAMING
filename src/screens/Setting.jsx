@@ -12,3 +12,4 @@ const Setting = () => {
 export default Setting;
 
 const styles = StyleSheet.create({});
+

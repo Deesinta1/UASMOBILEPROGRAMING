@@ -25,6 +25,7 @@ const MenuTab = () => {
         }}
       />
 
+
       <Tabs.Screen
         name="About"
         component={About}
